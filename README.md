@@ -4,8 +4,8 @@ My name is Jack Herberger, I am a former Computer Science student at Cal Poly SL
 
 ## Some things I've been interested in...
 The detethering of our society - regaining control of our dopamine and attention spans. <br>
-3D priting, Deep Learning, Large Language Models, File Systems and combinatorial problems. <br>
-Centering ourselves in constant state of learning and growing. 
+Centering ourselves in a constant state of learning and growing. <br>
+3D printing, Deep Learning, Combinatorics, intepretability of Neural Networks.
 
 
 ## Find me here:
