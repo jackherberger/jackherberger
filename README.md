@@ -7,5 +7,6 @@ I'm currently working on developing Goop, a blogging social media platform.<br>I
 
 
 ## Socials:
-[![jackherberger.com](https://img.shields.io/badge/just%20the%20jackherberger-8A2BE2)](https://www.jackherberger.com/) 
+[![jackherberger.com](https://img.shields.io/badge/jackherberger.com-8A2BE2)](https://www.jackherberger.com/) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-herberger/) 
